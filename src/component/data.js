@@ -1,0 +1,27 @@
+
+export const data =[
+    { id: 1,
+       title: "Fast & Furious 9",
+        description:"F9 (also known as F9: The Fast Saga and internationally as Fast & Furious 9) is a 2021 American action film directed by Justin Lin from a screenplay he co-wrote with Daniel Casey, based on a story by Lin, Casey, and Alfredo Botello",
+         posterURL: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bollywoodhungama.com%2Fmovie%2Ffast-furious-9-fast-saga-english%2F&psig=AOvVaw0_9R0DizpXFjpq8CsKaHqJ&ust=1676036702659000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiCxrTJiP0CFQAAAAAdAAAAABAE", 
+         rating: 5, },
+    { id: 2, 
+      title: "spenser confidential", 
+      description:"Spenser Confidential is a 2020 American action comedy film[1] directed by Peter Berg and with a screenplay written by Sean O'Keefe and Brian Helgeland.", 
+      posterURL: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fretroandclassicflixs.com%2Fproducts%2Fspenser-confidential-2020-dvd&psig=AOvVaw2vPth-lDKV_pWmgFYpOChG&ust=1676036893493000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiOwI_KiP0CFQAAAAAdAAAAABAE", 
+      rating: 5, }, 
+    { id: 3,
+       title: "21 Jump Street",
+        description:"21 Jump Street is a 2012 American buddy cop action comedy film directed by Phil Lord and Christopher Miller (in their live action directional debuts), written by Jonah Hill and Michael Bacall, and starring Hill and Channing Tatum.",
+         posterURL: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1232829%2F&psig=AOvVaw1nCe-lEav3HJvUHxQiH6iW&ust=1676036984926000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi1l7vKiP0CFQAAAAAdAAAAABAE", 
+         rating: 5, },
+    { id: 4, 
+      title: "Red Notice",
+     description:"Red Notice is a 2021 American action comedy film written and directed by Rawson Marshall Thurber starring Dwayne Johnson alongside Ryan Reynolds and Gal Gadot and Ritu Arya. It marks the third collaboration between Thurber and Johnson, following Central Intelligence (2016) and Skyscraper (2018", 
+     posterURl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt7991608%2F&psig=AOvVaw2gyfeLg2TXPcpxKeqKK_0n&ust=1676037151720000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiq3IrLiP0CFQAAAAAdAAAAABAE",
+      rating: 5, },
+    { id: 5,
+       title: "My Name Is Vendetta ",
+     description:"Spenser Confidential is a 2020 American action comedy film[1] directed by Peter Berg and with a screenplay written by Sean O'Keefe and Brian Helgeland.", posterURL: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt15229674%2F&psig=AOvVaw2QiQAbtDUv4Y9KHClix62B&ust=1676037251129000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj3lbrLiP0CFQAAAAAdAAAAABAE", rating: 5, }, { id: 6, title: "sky high", description:"Sky High (Spanish: Hasta el cielo) is a 2020 Spanish crime thriller film directed by Daniel Calparsoro, starring Miguel Herrán, Luis Tosar, Carolina Yuste, Patricia Vico, Fernando Cayo, Richard Holmes, Asia Ortega, Ayax Pedrosa and Dollar Selmouni.", posterUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fflixpatrol.com%2Ftitle%2Fsky-high-2020%2F&psig=AOvVaw3TKGoLs0lXcnTgRKWJsl_K&ust=1676037340650000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjH6OTLiP0CFQAAAAAdAAAAABAE", rating: 5, },
+
+  ]
